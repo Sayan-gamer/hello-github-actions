@@ -1,5 +1,3 @@
-## Welcome to "Hello World" with GitHub Actions
+## There are some small projects that I have stumbled upon...
 
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+play some games using node.js
